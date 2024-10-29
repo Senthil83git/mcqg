@@ -14,7 +14,6 @@ from langchain.chains import SequentialChain
 from langchain_community.callbacks.manager import get_openai_callback
 import PyPDF2
 
-load_dotenv()
 
 # Load environment variables from the .env file
 load_dotenv()
