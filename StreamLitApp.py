@@ -11,7 +11,7 @@ from src.mcqgen.logger import logging
 
 
 
-with open('D:\Documents\Senthil\mcqg\Response.json', 'r') as file:
+with open('Response.json', 'r') as file:
     RESPONSE_JSON = json.load(file)
 
 
